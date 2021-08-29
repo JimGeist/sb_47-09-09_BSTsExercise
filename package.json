@@ -1,0 +1,15 @@
+{
+  "name": "47-09-09-bsts-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-search-tree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jim Geist",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
